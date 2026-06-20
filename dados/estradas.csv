@@ -1,0 +1,11 @@
+origem,destino,distancia
+Jundiai,Campinas,40
+Jundiai,Sao Paulo,60
+Jundiai,Sorocaba,80
+Campinas,Sorocaba,50
+Campinas,Piracicaba,70
+Sorocaba,Itu,35
+Itu,Sao Paulo,90
+Piracicaba,Sao Carlos,65
+Sao Carlos,Ribeirao Preto,100
+Sao Paulo,Santos,85
